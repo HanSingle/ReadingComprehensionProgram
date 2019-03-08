@@ -1,0 +1,51 @@
+       Thobek are semi-aquatic reptilian humanoids with scaled skin. Shorter than humans but more powerfully built, thobek are often 4 to 5 feet tall and weigh from 200 to 250 pounds. They have sharp claws and teeth, and non-prehensile muscular tails for balance. Thobek believe themselves to be as old as the world itself, and this belief has created a culture that stubbornly clings to tradition. The numbers of thobek are dwindling as they retreat deeper into marshy wild places rather than interacting with the world.
+        Female thobek produce about five eggs over their lifetimes. These eggs are delicate, and between changes in habitat, scarcity of food, and predation, few make it to term. Viable eggs require constant care. As with many reptiles, the unhatched young change sex in response to changes in temperature. Often, a tribe deliberately manipulates this phenomenon to ensure gender parity, which is of high importance when the survival of the next generation hangs in the balance.
+        Most thobek live to be between 60 and 80 years old. Both males and females continue to grow for their entire lives, and those very rare few able to transcend the aging process (such as archdruids, grand shamans or some master alchemists) could reach an extremely large size around their 100th year. An aging thobek contributes to tribal life until the day of his death. Few settlements have the resources to support inactive members, and elders become teachers, negotiators, or nursery attendants. Even hatchlings are put to work once they achieve the necessary manual dexterity and achieve a level of autonomy and responsibility that greatly exceeds that of humans at a similar age.
+        Most thobek make their homes in rugged, well-constructed encampments in temperate swamps. Though the camps might seem unprotected to outsiders, thobek carefully choose to inhabit defensible sections of rivers or marshes, especially places with multiple submerged entrances, hidden escape routes, and dry access for non-swimmers. Such camps usually house a single tribe that subsists off the immediate territory, supplementing with hunting forays farther afield during lean periods. Thobek are most active during daylight hours, since they lack night vision, and prefer to retreat to the warmth and safety of their earthen lairs at sunset.
+        Thobek are extremely insular, trading or allying only with groups they have established relationships with over an extended period. They rarely permit outsiders to enter their camps, and instead meet them at sub-camps or at prominent natural landmarks. Thobek impose no cultural or religious requirements on their allies or trade partners, and expect the same treatment in return, but they might make ecological demands that can cause friction. However, any landmark being protected by thobek is due to the concern of environment preserving, since even a slight change to their habitat could have deadly ramifications.
+        This innate pragmatism also manifests in thobek's societal relations. Crime, politicking, and infighting are almost as common in settled thobek populations as they are in human settlements, but a strong sense of natural law prevents these societies from descending into chaos. Tribal justice is meted out swiftly and fairly, with most disputes settled in non-fatal combat between the parties involved. In some cases, these disputes may be handled by a proxy duel, with one or both sides sponsoring a champion.
+=Question Set 1
+
+T01 Which of these options best describes thobek's size?
+A) They are mostly taller and stronger than human. 
+B) They are mostly shorter but stronger than human. 
+C) They are mostly taller but weaker than human. 
+D) They are mostly shorter and weaker than human. 
+
+T02 How is the thobek culture best described based on their belief of their origin?
+A) Proud and noble                           B) Practical and flexible
+C) Stubborn and traditional              D) Mystical and knowledgeable
+
+T03 About how many eggs does a female thobek produce over her lifetime?
+A) 5                          B) 10                         C) 15                         D) 20 
+
+T04 What is the unique phenomenon that thobek tribes often use to ensure their gender parity? 
+A) The newly hatched young change sex in response to changes in humidity.
+B) The unhatched young change sex in response to changes in humidity.
+C) The newly hatched young change sex in response to changes in temperature.
+D) The unhatched young change sex in response to changes in temperature. 
+
+T05 How long does a common thobek live?
+A) 40 to 60 years.    B) 60 to 80 years.      C) 80 to 100 years.     D) over 100 years. =Question Set 2
+
+T06 Which option is NOT one of the exemplar occupations/professions of thobek that could extend the normal lifespan?
+A) Druid                  B) Shaman                 C) Alchemist               D) Cleric 
+
+T07 Which is NOT a common job for thobek elders?
+A) Teacher             B) Adviser                   C) Nursery attendant   D) Negotiator
+
+T08 In what kind of terrain do thobeks mostly settle?
+A) Temperate swamps      B) Frigid highlands 
+C) Warm shoals                D) Dense jungles
+
+T09 Which option best describes thobeks' physiological behavior?
+A) Thobeks are active at night and prefer to retreat to their lairs after sunrise. 
+B) Thobeks are active during daylight hours and retreat to their lairs before nightfall. 
+C) Thobeks are active during day time but their sharp night vision also provides them dexterity at night. 
+D) Thobeks are active at night but their eyes can also work efficiently in the daylight. 
+
+T10 Which option does NOT describe thobeks' relationship with outsiders correctly?
+A) Thobeks may be highly resistant to ecological changes caused by outsiders because any slight change to their habitat might have deadly ramifications.
+B) Thobeks impose no cultural or religious requirements on allies or trade partners and expect the same in return. 
+C) Thobeks are very insular and are only amicable to groups they have allied with over an extended period. 
+D) They allow trustworthy outsiders to enter their camps, otherwise they usually meet others at their sub-camps or natural landmarks. 

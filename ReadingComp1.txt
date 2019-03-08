@@ -1,0 +1,53 @@
+       Standing about four feet tall and weighing eighty pounds, hamelirs are humanoids with whiskered snouts and long tails. Hamelirs usually make a place for themselves through shrewd trading in big cities. They aren't powerful individually, but their large collectives give them strength in numbers.
+       Hamelirs are populous: most hamelirs' pregnancies result in triplets or quadruplets. Although hamelirs live a meager fraction of the time that a human does, few of them fret about their brief lifespans; instead, they make up for it by spending much of their "idle" time exploring, experimenting, and experiencing what life has to offer. They have highly developed brains that provide them exceptional spatial reasoning and understanding of causality. These traits not only enable them to predict how a material or device might change when manipulated in a particular way, but also encourage them to experiment unceasingly in times of peril and plenty. As a people, hamelir have the virtue of raw curiosity that provides them eternal motivation to researches and adventures. 
+       This eagerness to explore also manifests in hamelirs' social attitudes, for even though each member values the community, they are also encouraged to distinguish oneself through one's own accomplishments. Each individual researches and tinkers with the intention of using her inventions to strengthen the community and earn herself a position in the society as well. Hamelirs praise the achievements of individuals, and it is considered good manners for the one celebrated to recognize the host of others who helped her accomplish her goal, reinforcing the community's bonds.
+       Hamelir names are often short: it is a necessity when families are large. If several hamelirs in a community have the same name, which is not uncommon, they're differentiated via nicknames. To further distinguish themselves, hamelirs wear unique jewelry or clothing with distinctive embroidery, or they may apply modest amounts of perfume to stand out.
+       Although the populations are usually large, hamelir warrens tend to be relatively compact. This is more a matter of choice than necessity, as the creatures are naturally gregarious and enjoy the company of others. Despite their high population density, hamelir settlements are kept remarkably clean. This meticulousness does not always translate into organization, though, and an immaculately clean workshop might still be a jumble of tools, half-finished projects, and esoteric blueprints. Warrens tend to be a jumble of narrow tunnels that connect larger living spaces, and defenders can fend off large numbers of attackers at strategic choke points. Tunnels typically have easily removable supports near the warren so the hamelirs can collapse some entrances when attacked. As many of the adults hold off the attackers, others uncover escape routes and shepherd the young, sick, and weak to safety.
+       Hamelirs love to accumulate baubles, subtle devices, and other small but exciting treasures. They place particularly high value on shiny objects (especially adornments like rings) and delicate mechanisms that can be disassembled, studied, and then pieced back together. Hamelirs practice a system of loose ownership in which one may borrow another's possession so long as it is returned when asked and taking it would not endanger its owner. This detachment makes hamelirs willing to trade away even prized possessions so long as doing so means gaining something even better. Hamelir's love of shiny things illustrates another contradiction: while they delight in radiance, they favor living in dark places. A sparkling trinket is certain to fascinate hamelirs, but a bright flash of light or unexpected glow unsettles them.=Question set 1
+
+H01 Which of these options best describes hamelirs' appearance?
+A) Tall but thin humanoids with scales and horns
+B) Short but stocky humanoids with scales and tails
+C) Tall and big humanoids with snouts and horns
+D) Short and small humanoids with snouts and tails
+
+H02 What is the prime occupation of hamelirs in big cities?
+A) Alchemists    B) Traders    C) Engineers    D) Bodyguards
+
+H03 What benefits does the highly developed brain of hamelirs provide?
+A) Exceptional verbal ability and understanding of causality
+B) Exceptional verbal ability and long-term memory
+C) Exceptional spatial reasoning and long-term memory
+D) Exceptional spatial reasoning and understanding of causality
+
+H04 How many neonates does a hamelir's pregnancy usually result in?
+A) One or two    B)Three or four    C) Five to eight    D)Ten or more
+
+H05 Generally, how long is the life span of a hamelir?
+A) Longer than humans    B) Shorter than humans 
+C) Similar to humans        D) Not mentioned=Question Set 2
+
+H06 Which option is NOT used by hamelirs to differentiate/distinguish themselves when multiple individuals have the same name?
+A) Nicknames    B) Unique jewelry or distinctive clothing    C) Perfume    D) Tattoos or bodypaintings
+
+H07 Which option describes hamelir warrens correctly?
+A) Dispersed, clean, and organized.            B) Dispersed, untidy, and organized. 
+C) Compact, untidy, and disorganized.       D)  Compact, clean, and disorganized. 
+
+H08 Which option below is NOT mentioned as a hamelir defense strategy when their warrens are attacked?
+A) They fend off attackers at strategic choke points. 
+B) They collapse the entrances to warrens by removing supports of tunnels.
+C) The adults hold off the attackers so that the young, sick, and weak could escape. 
+D) They always set tricky traps and magic devices in their warrens.
+
+H09 What is the best description of hamelirs' social attitudes?
+A) The common good of the community should always be valued most. 
+B) Even though everyone values the community, one's personal accomplishments should also be recognized and praised. 
+C) Even though one's personal accomplishments should be recognized, everyone should value the benefits of the community most. 
+D) The personal accomplishments should always be recognized and praised over the benefits of the community. 
+
+H10 Which option does NOT describe hamelir's behavior correctly?
+A) A hamelir can borrow another's possession as long as it is returned when asked. 
+B) Hamelirs love to accumulate baubles, subtle devices, and other small but exciting treasures. 
+C) Hamelirs are willing to trade away even prized possessions when they know and trust the broker/dealer. 
+D) Hamelirs love shiny objects but cannot take an unexpected glow or flash. 
